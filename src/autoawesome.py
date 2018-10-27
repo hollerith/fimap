@@ -160,6 +160,6 @@ class autoawesome(baseClass):
                     single.setQuite(True)
                     single.scan()
                 except:
-                    print "Cought an exception. Continuing..."
+                    print "Caught an exception. Continuing..."
                 
         print "AutoAwesome is done."
